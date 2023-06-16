@@ -41,6 +41,6 @@ Contribuições são bem-vindas! Se você identificar melhorias, correções de 
 Se tiver alguma dúvida ou sugestão relacionada a este repositório, fique à vontade para entrar em contato comigo. Você pode me encontrar por meio das seguintes informações de contato:
 
 - E-mail: lemosecarlos@gmail.com
-- LinkedIn: [seu perfil no LinkedIn](https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos/)
+- LinkedIn: [Meu perfil no LinkedIn](https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos/)
 
 Agradeço por conferir este repositório e espero que os códigos aqui presentes possam ser úteis no seu aprendizado de JavaScript com foco no desenvolvimento back-end.
