@@ -40,6 +40,3 @@ function particiona(array, esquerda, direita) {
 }
 
 console.log(quickSort(listaLivros, 0, listaLivros.length - 1))
-
-
-

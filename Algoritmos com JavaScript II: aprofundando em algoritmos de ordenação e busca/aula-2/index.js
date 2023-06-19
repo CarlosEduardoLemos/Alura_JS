@@ -33,9 +33,7 @@ function ordena(parte1, parte2) {
     }
   }
 
-  return resultado.concat(posicaoAtualParte1 < parte1.length
-    ? parte1.slice(posicaoAtualParte1)
-    : parte2.slice(posicaoAtualParte2))
+  return resultado.concat(posicaoAtualParte1 < parte1.length ? parte1.slice(posicaoAtualParte1) : parte2.slice(posicaoAtualParte2))
 }
 
 console.log(mergeSort(listaLivros));
